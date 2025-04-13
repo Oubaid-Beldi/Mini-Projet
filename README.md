@@ -1,77 +1,113 @@
-Katalon Test Automation
+# Katalon Test Automation
+
 This repository contains automated test scripts created with Katalon Studio for [Your Project Name]. The tests ensure the correctness of the website's functionality and user experience.
 
-🛠 Prerequisites
-Katalon Studio installed on your local machine.
+---
 
-Git (for version control).
+## 🛠 Prerequisites
 
-A web browser to run tests (Chrome, Firefox, etc.).
+-   Katalon Studio installed on your local machine.
+-   Git (for version control).
+-   A web browser to run tests (Chrome, Firefox, etc.).
 
-🔧 Setup
-Clone this repository:
+---
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/your-repo-name.git
-Open the project in Katalon Studio:
+## 🔧 Setup
 
-Launch Katalon Studio.
+1.  **Clone this repository**:
 
-Click File > Open Project.
+    ```bash
+    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    ```
 
-Select the your-repo-name directory.
+2.  **Open the project in Katalon Studio**:
 
-📝 Tests Included
-TC-UI-01 - Navbar Accessibility: Verifies navbar links are functional.
+    -   Launch Katalon Studio.
+    -   Click `File` \> `Open Project`.
+    -   Select the `your-repo-name` directory.
 
-TC-UI-02 - Homepage Responsiveness: Ensures the homepage layout is responsive across different window sizes.
+---
 
-TC-UI-03 - Image Loading: Verifies that product images load correctly on the homepage.
+## 📝 Tests Included
 
-TC-PRODUCT-01 - View Product Categories: Checks that product categories display correctly.
+* **TC-UI-01 - Navbar Accessibility**
 
-TC-PRODUCT-02 - Product Details Page: Ensures product details are loaded correctly when clicked.
+    * Description: Verify that navbar links are functional.
+* **TC-UI-02 - Homepage Responsiveness**
 
-🚀 Running Tests
-Open Katalon Studio.
+    * Description: Verify that the homepage layout adjusts correctly for different window sizes.
+* **TC-UI-03 - Image Loading**
 
-Select the Test Suite or Test Case you want to run.
+    * Description: Verify that product images load correctly on the homepage.
+* **TC-PRODUCT-01 - View Product Categories**
 
-Click the Run button.
+    * Description: Verify that product categories are displayed correctly on the homepage.
+* **TC-PRODUCT-02 - Product Details Page**
 
-You can run the tests on local or remote environments, including browser configurations and mobile devices.
+    * Description: Verify that clicking a product displays its details correctly.
+* **TC-PRODUCT-03 - Pagination Navigation**
 
-🔄 Version Control
-Make sure to keep your repository updated:
+    * Description: Verify that pagination works properly for product listings.
+* **TC-UI-04 - Navbar Appearance**
 
-Push changes:
+    * Description: Verify that the navbar remains visible and usable across different screen sizes.
+* **TC-UI-05 - Footer Links**
 
-bash
-Copy
-Edit
-git add .
-git commit -m "Your commit message"
-git push origin main
-Pull updates:
+    * Description: Verify that footer links are functional and redirect to correct pages.
+* **TC-UI-06 - Search Functionality**
 
-bash
-Copy
-Edit
-git pull origin main
-📚 References
-Katalon Documentation
+    * Description: Verify that the search bar returns relevant results when searching for products.
 
-Katalon Studio Setup
+---
 
-👨‍💻 Contributing
-Feel free to fork this repository, create a branch, and submit a pull request with your changes.
+## 🚀 Running Tests
 
-🛠 Tools Used
-Katalon Studio
+1.  Open Katalon Studio.
+2.  Select a Test Suite or Test Case from the left panel.
+3.  Click the `Run` button (play icon) to execute the tests.
 
-Git
+You can run the tests locally or on remote environments using different browser configurations and mobile devices.
 
-ChromeDriver
+---
 
+## 🔄 Version Control
+
+To keep your repository updated, use the following Git commands:
+
+* **Push changes**:
+
+    ```bash
+    git add .
+    git commit -m "Your commit message"
+    git push origin main
+    ```
+* **Pull updates**:
+
+    ```bash
+    git pull origin main
+    ```
+
+---
+
+## 📚 References
+
+* [Katalon Documentation](https://docs.katalon.com/)
+* [Katalon Studio Setup](https://docs.katalon.com/katalon-studio/docs/installation.html)
+
+---
+
+## 👨‍💻 Contributing
+
+We welcome contributions to this project! To contribute:
+
+1.  Fork the repository.
+2.  Create a new branch for your feature or fix.
+3.  Submit a pull request with your changes.
+
+---
+
+## 🛠 Tools Used
+
+* Katalon Studio
+* Git
+* ChromeDriver
