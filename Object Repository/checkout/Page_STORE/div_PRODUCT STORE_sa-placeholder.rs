@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PRODUCT STORE_sa-placeholder</name>
+   <tag></tag>
+   <elementGuidId>b19c8904-0c8b-4d22-8bb9-c8001879027c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sa-placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[10]/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3ea3922a-4914-4d65-93b1-436195ab1692</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sa-placeholder</value>
+      <webElementGuid>84779a74-e811-4f98-8b89-0d3acb335e86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open stop-scrolling&quot;]/div[@class=&quot;sweet-alert  showSweetAlert visible&quot;]/div[@class=&quot;sa-icon sa-success animate&quot;]/div[@class=&quot;sa-placeholder&quot;]</value>
+      <webElementGuid>fb197f3a-cd25-4966-a1fa-6c86cb50cad9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div[4]/div</value>
+      <webElementGuid>b0b6d25e-18cc-41f5-bd93-cc7022ecb8d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

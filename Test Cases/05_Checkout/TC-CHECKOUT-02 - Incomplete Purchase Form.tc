@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify error on incomplete purchase form.</description>
+   <name>TC-CHECKOUT-02 - Incomplete Purchase Form</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d77b303c-0cd2-4752-a3f6-dc85509efaf0</testCaseGuid>
+</TestCaseEntity>

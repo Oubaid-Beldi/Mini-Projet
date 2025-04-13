@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-CONTACT-03-Invalid Email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>24d80a2b-6ff1-41af-a829-e75329423d05</testCaseGuid>
+</TestCaseEntity>

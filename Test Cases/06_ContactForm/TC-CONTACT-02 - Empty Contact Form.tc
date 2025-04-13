@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify error on empty contact form.</description>
+   <name>TC-CONTACT-02 - Empty Contact Form</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>836093d8-be3c-4b87-9b0b-d30e50cd75f0</testCaseGuid>
+</TestCaseEntity>

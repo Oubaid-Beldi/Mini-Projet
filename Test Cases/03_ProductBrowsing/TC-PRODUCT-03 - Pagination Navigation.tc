@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-PRODUCT-03 - Pagination Navigation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2597fbf7-ae94-405b-910a-685e8f2da6eb</testCaseGuid>
+</TestCaseEntity>

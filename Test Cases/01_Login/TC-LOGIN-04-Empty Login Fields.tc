@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-LOGIN-04-Empty Login Fields</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>104921a8-57e3-4d06-a73b-a9b17197f559</testCaseGuid>
+</TestCaseEntity>

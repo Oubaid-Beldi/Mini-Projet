@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify product details load correctly.</description>
+   <name>TC-PRODUCT-02 - Product Details Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd05e58d-9548-4629-a8d3-a1a0c01619c7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify contact form submission.</description>
+   <name>TC-CONTACT-01 - Submit Contact Form</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d0c3a76f-8271-48b0-9da9-c4a11bf267a4</testCaseGuid>
+</TestCaseEntity>

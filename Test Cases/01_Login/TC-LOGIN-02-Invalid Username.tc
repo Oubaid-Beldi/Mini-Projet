@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify error on login with incorrect username.</description>
+   <name>TC-LOGIN-02-Invalid Username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0caba2a5-ef3e-4818-8714-01113a3ad2ac</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the navbar links are functional.</description>
+   <name>TC-UI-01 - Navbar Accessibility</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f930053f-0f81-46f3-be6c-1bf6a5f0a296</testCaseGuid>
+</TestCaseEntity>

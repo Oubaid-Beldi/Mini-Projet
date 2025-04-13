@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify error on sign-up with existing username.</description>
+   <name>TC-SIGNUP-02 - Duplicate Username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>67e0753f-eb81-46ba-b828-3347d4535374</testCaseGuid>
+</TestCaseEntity>

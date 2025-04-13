@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify error when sign-up fields are empty.</description>
+   <name>TC-SIGNUP-03 - Empty Sign-Up Fields</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>250e1da9-89bf-45b6-b223-bdbb1d00b8fc</testCaseGuid>
+</TestCaseEntity>

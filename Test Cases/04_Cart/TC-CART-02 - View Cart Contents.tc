@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify cart displays added products.</description>
+   <name>TC-CART-02 - View Cart Contents</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a985791d-00ed-4b0b-8dae-5d3d5d156656</testCaseGuid>
+</TestCaseEntity>

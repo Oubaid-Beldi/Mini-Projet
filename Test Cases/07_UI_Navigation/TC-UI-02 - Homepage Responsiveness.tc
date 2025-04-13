@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the homepage layout adjusts correctly at different window sizes.</description>
+   <name>TC-UI-02 - Homepage Responsiveness</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bc558c32-c9dd-405e-b3a5-7db6ed228a61</testCaseGuid>
+</TestCaseEntity>

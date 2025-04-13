@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that clicking on the logo brings the user back to the homepage.</description>
+   <name>TC-UI-03 - Logo Click Returns to Homepage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c3d56399-1992-4a5a-bf62-f2dd5a04178c</testCaseGuid>
+</TestCaseEntity>

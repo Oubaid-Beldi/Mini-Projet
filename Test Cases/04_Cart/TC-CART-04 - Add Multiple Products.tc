@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify multiple products can be added to cart.</description>
+   <name>TC-CART-04 - Add Multiple Products</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4e7db4ef-4106-4f85-a362-2ca00b9ac8dc</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify error on invalid card details.</description>
+   <name>TC-CHECKOUT-03 - Invalid Credit Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a9369c21-87a5-4788-94fd-7e54266d1b0e</testCaseGuid>
+</TestCaseEntity>

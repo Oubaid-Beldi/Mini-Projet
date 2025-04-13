@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify product can be removed from cart.</description>
+   <name>TC-CART-03 - Remove Product from Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5123313a-8944-4566-9caa-7a5055470a2a</testCaseGuid>
+</TestCaseEntity>

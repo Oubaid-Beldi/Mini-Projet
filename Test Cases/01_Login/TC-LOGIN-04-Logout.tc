@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logout function</description>
+   <name>TC-LOGIN-04-Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4c9f1161-e9cd-401e-aa5c-c37120cc7998</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify successful purchase completion.</description>
+   <name>TC-CHECKOUT-01 - Complete Purchase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a8e7dc5-890c-4814-87c7-f9ed37b78e0c</testCaseGuid>
+</TestCaseEntity>

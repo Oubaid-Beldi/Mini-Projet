@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify categories display products correctly.</description>
+   <name>TC-PRODUCT-01 - View Product Categories</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b592a83f-0d9a-4fd1-9b09-d7f73f1ae77c</testCaseGuid>
+</TestCaseEntity>
